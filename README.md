@@ -3,7 +3,7 @@
 A collection of MATLAB scripts covering fundamental image processing techniques including brightness manipulation, contrast stretching, and histogram equalization — with full visual analysis of transformations and histograms.
 
 <div align="center">
-  <img src="images/thumbnail.jpg" alt="Project Thumbnail" width="700"/>
+  <img src="images/thumbnail.png" alt="Project Thumbnail" width="700"/>
 </div>
 
 <br>
